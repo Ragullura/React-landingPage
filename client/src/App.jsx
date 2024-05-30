@@ -1,9 +1,10 @@
 import React from 'react'
+import Navbar from './components/Navbar'
 
 export default function App() {
   return (
-    <div>
-      <h1 className='text-3xl text-orange-700'> React</h1>
-    </div>
+    <>
+      <Navbar />
+    </>
   )
 }
