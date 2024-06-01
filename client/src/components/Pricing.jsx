@@ -28,7 +28,7 @@ export default function Pricing() {
                                     </li>
                                 ))}
                             </ul>
-                            <a href="#" className='inline-flex justify-center items-center text-center w-full h-12 p-5 mt-20 tracking-tight text-xl hover:bg-gradient-to-r hover:from-red-500 hover:to-red-800 border border-orange-900 rounded-lg transition duration-200'>Subscribe</a>
+                            <a href="#" className='inline-flex justify-center items-center text-center w-full h-12 p-5 mt-20 tracking-tight text-xl hover:bg-gradient-to-r hover:from-red-500 hover:to-red-800 border border-orange-900 rounded-lg transition duration-200 '>Subscribe</a>
                     </div>
                 </div>
             ))}
